@@ -126,4 +126,7 @@
     <string name="quick_settings_sound_ring">Ring</string>
     <string name="quick_settings_sound_vibrate">Vibrate</string>
     <string name="quick_settings_sound_mute">Mute</string>
+
+    <!-- Screenshot Tile -->
+    <string name="screenshot_long_press">Long press - sele>
 </resources>
