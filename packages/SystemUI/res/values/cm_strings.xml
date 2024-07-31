@@ -121,12 +121,6 @@
     <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
     <string name="screenshot_delete_description">Delete screenshot</string>
 
-    <!-- Sound QS Tile -->
-    <string name="quick_settings_sound_label">Sound</string>
-    <string name="quick_settings_sound_ring">Ring</string>
-    <string name="quick_settings_sound_vibrate">Vibrate</string>
-    <string name="quick_settings_sound_mute">Mute</string>
-
     <!-- Screenshot Tile -->
     <string name="screenshot_long_press">Long press - sele>
 
